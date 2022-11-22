@@ -16,7 +16,7 @@ gem 'puma'
 gem 'rack-cors', require: 'rack/cors'
 gem 'rack-mini-profiler', require: false
 gem 'redcarpet', '~> 3.2.2'
-gem 'dalli', '~> 2.7.4'
+gem 'dalli', '~> 3.2.3'
 gem 'connection_pool', '~> 2.1.3'  # Multithreading. https://github.com/mperham/dalli#multithreading-and-rails
 
 # grp
